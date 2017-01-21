@@ -1,0 +1,1 @@
+Working through Go Programming Blueprints 2nd Edition
